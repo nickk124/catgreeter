@@ -1,6 +1,13 @@
 # images
 data/raw/*.jpg
+data/sorted/*/*.jpg
+
+# unneeded outputs
+data/labels
 
 # 3rd party tools
 utils/image-sorter2
 utils/labelimg-master
+
+# jupyter notebooks
+.ipynb_checkpoints
