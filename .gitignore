@@ -1,6 +1,6 @@
 # images
-data/raw/*.jpg
-data/sorted/*/*.jpg
+data/*/*.jpg
+data/*/*/*.jpg
 
 # unneeded outputs
 data/labels
