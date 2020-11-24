@@ -2,8 +2,12 @@
 data/*/*.jpg
 data/*/*/*.jpg
 
-# unneeded outputs
+# testing
+webcam_detect.py
+
+# unneeded outputs/model files
 data/labels
+*.h5
 
 # 3rd party tools
 utils/image-sorter2
